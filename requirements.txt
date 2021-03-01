@@ -40,8 +40,6 @@ pyparsing==2.4.7
 PyQt5==5.15.1
 PyQt5-sip==12.8.1
 pyTelegramBotAPI==3.7.3
-pytz==2020.1
-pywin32==227
 requests==2.23.0
 scapy==2.4.4
 six==1.15.0
