@@ -37,7 +37,6 @@ pycparser==2.20
 pydub==0.24.0
 PyMySQL==0.10.1
 pyparsing==2.4.7
-pypiwin32==223
 PyQt5==5.15.1
 PyQt5-sip==12.8.1
 pyTelegramBotAPI==3.7.3
